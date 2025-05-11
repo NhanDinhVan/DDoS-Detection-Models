@@ -1,1 +1,1 @@
-# DDoS-Detection-for-LibreNMS
+# DDoS-Detection-Models
